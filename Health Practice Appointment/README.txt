@@ -1,0 +1,1 @@
+This program demonstrates the use of test driven development and throwing and catching user defined exceptions. It represents booking an appointment with a doctor/health practice 

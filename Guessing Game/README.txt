@@ -1,0 +1,1 @@
+This program is a guessing game where the program tries to guess what animal the user is thinking of. It uses a binary tree structure where each node is a question. It reads from a txt file to create the tree

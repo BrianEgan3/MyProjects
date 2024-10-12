@@ -1,0 +1,1 @@
+This program tests 4 different algorithms for checking if a number is a palindrome. It checks if the number is a palindrome in decimal as well as checking if it is a palindrome in binary form. It times each algorithm to see how long each one takes.

@@ -1,0 +1,1 @@
+This program can take a list of expenses and print them in different forms. It demonstrates he use of test driven development, enums, lambda functions and anonymous inner classes
